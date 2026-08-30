@@ -4,15 +4,15 @@ on:
   schedule:
     # Setiap 12 jam
     - cron: "0 */12 * * *"
-  
+
   # Memungkinkan workflow dijalankan secara manual
   workflow_dispatch:
-  
+
   # Dijalankan saat ada push ke master/main
   push:
     branches:
-    - master
-    - main
+      - master
+      - main
 
 jobs:
   generate:
@@ -20,21 +20,20 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate github-contribution-grid-snake.svg (amber palette)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=fff3d6&color_dots=1a1206,4d3300,996f00,cc9400,ffb000
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
