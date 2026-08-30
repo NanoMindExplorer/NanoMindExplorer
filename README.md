@@ -56,7 +56,7 @@ crypto airdrop hunting • X algorithm mechanics
 
 > _"Ngoding dari tablet, mikir kayak arsitek sistem wkwkwk."_
 
-Independent Android developer & content creator berbasis Indonesia. Hampir semua development dikerjakan lewat **Termux** di **Huawei MatePad** (HarmonyOS 4.x, AOSP-compatible), pakai **proot Ubuntu 24.04** sebagai daily driver, dan kode di-_ship_ lewat workflow `git apply` patch tanpa desktop, tanpa IDE berat.
+Independent Android developer & Oprekers. Hampir semua development dikerjakan lewat **Termux** di **Huawei MatePad** (HarmonyOS 4.x, AOSP-compatible), pakai **proot Ubuntu 24.04** sebagai daily driver, dan kode di-_ship_ lewat workflow `git apply` patch tanpa desktop, tanpa IDE berat.
 
 - 🔭 **Sedang dibangun:** CodeForge, Tunnel Terminal, GameMapperMind
 - 🪙 **Side quest:** airdrop hunting & testnet
