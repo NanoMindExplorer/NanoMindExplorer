@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:663D00,100:FFB000&height=280&section=header&text=NANOMINDEXPLORER&fontSize=56&fontColor=FFF3D6&animation=fadeIn&fontAlignY=35&desc=%3E%20whoami%20%26%26%20echo%20%22Android%20Dev%20%2B%20Terminal%20Tinkerer%20%2B%20Crypto%20Builder%22&descAlignY=55&descAlign=50&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:663D00,100:FFB000&height=280&section=header&text=NANOMINDEXPLORER&fontSize=56&fontColor=FFF3D6&animation=fadeIn&fontAlignY=35&desc=%26gt%3B%20whoami%20%26amp%3B%26amp%3B%20echo%20%22Android%20Dev%20%2B%20Terminal%20Tinkerer%20%2B%20Crypto%20Builder%22&descAlignY=55&descAlign=50&descSize=15" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NanoMindExplorer&style=for-the-badge&color=FFB000&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/NanoMindExplorer?style=for-the-badge&logo=github&color=FFB000&logoColor=0D0D0D&labelColor=0D0D0D)
