@@ -1,127 +1,195 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=NanoMindExplorer&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Advanced%20GitHub%20Profile!&descAlignY=51&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:663D00,100:FFB000&height=280&section=header&text=NANOMINDEXPLORER&fontSize=56&fontColor=FFF3D6&animation=fadeIn&fontAlignY=35&desc=%3E%20whoami%20%26%26%20echo%20%22Android%20Dev%20%2B%20Terminal%20Tinkerer%20%2B%20Crypto%20Builder%22&descAlignY=55&descAlign=50&descSize=15" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=NanoMindExplorer&style=for-the-badge&color=blue&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/NanoMindExplorer?style=for-the-badge&logo=github&color=blue)
-![GitHub User's stars](https://img.shields.io/github/stars/NanoMindExplorer?style=for-the-badge&logo=github&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=NanoMindExplorer&style=for-the-badge&color=FFB000&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/NanoMindExplorer?style=for-the-badge&logo=github&color=FFB000&logoColor=0D0D0D&labelColor=0D0D0D)
+![GitHub Stars](https://img.shields.io/github/stars/NanoMindExplorer?style=for-the-badge&logo=github&color=FFB000&logoColor=0D0D0D&labelColor=0D0D0D)
 
-<p align="center">
-  <a href="https://github.com/NanoMindExplorer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Advanced+System+Architect;Full-Stack+Developer;Open+Source+Contributor;Turning+Complex+Problems+into+Code" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://github.com/NanoMindExplorer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFB000&center=true&vCenter=true&width=800&lines=Independent+Android+Developer;Termux+%2B+proot+Ubuntu+24.04;Ship+code+via+git+apply+patches;Crypto+Airdrop+%26+Testnet+Hunter+%28EVM+%2B+Solana%29;Nulis+analisis+crypto+%26+tech+di+X" alt="Typing SVG" />
+</a>
 
----
-
-### 🌐 Socials & Contact
-<p align="center">
-  <a href="mailto:imanfirmanyah12345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/NanoMindExplorer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p>
+  <a href="mailto:imanfirmanyah12345@gmail.com"><img src="https://img.shields.io/badge/Email-FFB000?style=for-the-badge&logo=gmail&logoColor=0D0D0D" /></a>
+  <a href="https://github.com/NanoMindExplorer"><img src="https://img.shields.io/badge/GitHub-FFB000?style=for-the-badge&logo=github&logoColor=0D0D0D" /></a>
+  <a href="https://nanomindexplorer.github.io/nanomind"><img src="https://img.shields.io/badge/Website-FFB000?style=for-the-badge&logo=googlechrome&logoColor=0D0D0D" /></a>
+  <a href="https://x.com/Deadmouse_jpeg"><img src="https://img.shields.io/badge/X-FFB000?style=for-the-badge&logo=x&logoColor=0D0D0D" /></a>
+  <a href="https://t.me/oxnlyfams"><img src="https://img.shields.io/badge/Telegram-FFB000?style=for-the-badge&logo=telegram&logoColor=0D0D0D" /></a>
 </p>
 
 </div>
 
-## 🚀 About Me
+---
+
+## 📟 boot sequence
+
+```bash
+nano@matepad:~$ whoami
+NanoMindExplorer — Independent Android Developer & Content Creator (Indonesia 🇮🇩)
+
+nano@matepad:~$ neofetch --minimal
+-----------------------------------------------------
+Device    : Huawei MatePad
+OS        : HarmonyOS 4.x (AOSP-compatible)
+Runtime   : Termux -> proot Ubuntu 24.04
+Deploy    : git apply (patch-based workflow, no desktop)
+-----------------------------------------------------
+
+nano@matepad:~$ cat currently_building.txt
+[GO]  CodeForge          - terminal AI coding assistant (Bubble Tea TUI)
+[KT]  Tunnel Terminal     - AI-native Android terminal (PTY / SSH / MCP)
+[TS]  GameMapperMind      - gamepad -> touchscreen bridge via Shizuku
+[PY]  mmpd                - YouTube/Spotify/SoundCloud -> audio CLI
+
+nano@matepad:~$ echo $SIDEQUEST
+crypto airdrop hunting • EVM & Solana testnets • X algorithm mechanics
+```
+
+---
+
+## 🚀 tentang saya
 
 <table>
-  <tr>
-    <td valign="top" width="60%">
-      <blockquote>
-        "Membangun sistem yang kompleks dengan solusi yang elegan."
-      </blockquote>
-      <p>
-        Saya adalah seorang developer yang memiliki ketertarikan tinggi pada arsitektur sistem, optimisasi kode, dan eksplorasi teknologi baru. Saya menikmati memecahkan masalah (*bug hunting*) dan merancang *workflow* otomatis menggunakan CI/CD.
-      </p>
-      <ul>
-        <li>🔭 <b>Fokus Saat Ini:</b> Membangun infrastruktur *backend* & otomatisasi (*DevOps*).</li>
-        <li>🌱 <b>Sedang Dipelajari:</b> Rust, Go, & Arsitektur Microservices.</li>
-        <li>👯 <b>Kolaborasi:</b> Terbuka untuk proyek *Open Source* kompleks & *Hackathons*.</li>
-        <li>⚡ <b>Trivia:</b> Suka mengeksplorasi Kernel Linux dan terminal *customization*.</li>
-      </ul>
-    </td>
-    <td valign="top" width="40%">
-      <div align="center">
-        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight" alt="Quote of the day" />
-      </div>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="62%">
+
+> *"Ngoding dari tablet, mikir kayak arsitek sistem."*
+
+Independent Android developer & content creator berbasis Indonesia. Hampir semua development dikerjakan lewat **Termux** di **Huawei MatePad** (HarmonyOS 4.x, AOSP-compatible), pakai **proot Ubuntu 24.04** sebagai daily driver, dan kode di-*ship* lewat workflow `git apply` patch — tanpa desktop, tanpa IDE berat.
+
+- 🔭 **Sedang dibangun:** CodeForge, Tunnel Terminal, GameMapperMind — semuanya lahir & diaudit langsung dari terminal mobile
+- 🧭 **Cara kerja:** sesi development kompleks dimulai dengan dokumen kontrak kerja (seri AEC) buat ngatur AI sebelum mulai ngoding — disiplin dulu, baru jalan
+- 🪙 **Side quest:** airdrop hunting & testnet farming di ekosistem EVM dan Solana
+- ✍️ **Selain ngoding:** aktif bikin konten Indonesia di X — analisis crypto/airdrop, thread *build-in-public*, dan komentar media/tech
+
+</td>
+<td valign="top" width="38%" align="center">
+
+**🏅 achievements**
+
+<img src="https://img.shields.io/badge/🎯_Achievement-YOLO-FFB000?style=for-the-badge&labelColor=0D0D0D" /><br/>
+<img src="https://img.shields.io/badge/🦈_Achievement-Pull_Shark_×2-FFB000?style=for-the-badge&labelColor=0D0D0D" />
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 🛠️ tech stack
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <b>Frontend & UI</b><br><br>
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,vite,figma&perline=3" />
-    </td>
-    <td align="center" width="33%">
-      <b>Backend & Core</b><br><br>
-      <img src="https://skillicons.dev/icons?i=py,nodejs,go,rust,php,mysql,postgres,mongodb,redis&perline=3" />
-    </td>
-    <td align="center" width="33%">
-      <b>DevOps & Tools</b><br><br>
-      <img src="https://skillicons.dev/icons?i=linux,git,bash,docker,kubernetes,aws,gcp,nginx,vscode,vim&perline=3" />
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%"><b>Mobile & Terminal</b><br><br>
+<img src="https://skillicons.dev/icons?i=kotlin,cpp,linux,bash,androidstudio&perline=5" />
+</td>
+<td align="center" width="33%"><b>Backend & Scripting</b><br><br>
+<img src="https://skillicons.dev/icons?i=go,nodejs,python,js,ts&perline=5" />
+</td>
+<td align="center" width="34%"><b>Tooling & Web3</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,solidity&perline=5" />
+</td>
+</tr>
 </table>
 
 ---
 
-## 📈 GitHub Analytics & Stats
+## ⚙️ dari tablet ke commit
 
-<details>
-  <summary><b>🔥 Tampilkan Analisis Kontribusi (Klik untuk memperluas)</b></summary>
-  <br>
+```
+┌──────────────────┐     ┌─────────┐     ┌────────────────────┐     ┌─────────────────────┐
+│  Huawei MatePad   │ --> │ Termux  │ --> │ proot Ubuntu 24.04  │ --> │ git apply -> GitHub  │
+│  (HarmonyOS 4.x)  │     │         │     │                    │     │                      │
+└──────────────────┘     └─────────┘     └────────────────────┘     └─────────────────────┘
+```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NanoMindExplorer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NanoMindExplorer&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanoMindExplorer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NanoMindExplorer&bg_color=0D1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true&theme=tokyonight" alt="Activity Graph" width="48%" />
-</div>
-
-</details>
-
-<details open>
-  <summary><b>🐍 Kontribusi Git & GitHub Actions (Snake Animation)</b></summary>
-  <br>
-
-  <p align="center">
-    *Animasi di bawah ini dibuat secara otomatis setiap hari menggunakan GitHub Actions.*
-  </p>
-  
-  <p align="center">
-    <!-- Snake akan di-generate oleh GitHub Actions dan di-push ke branch output -->
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg">
-    </picture>
-  </p>
-
-</details>
+Nggak ada desktop, nggak ada IDE berat — build, audit, dan patch semuanya jalan di satu tablet.
 
 ---
 
-## 🏆 Pencapaian & Trophies
+## 📦 featured projects
+
+| Project | Stack | Deskripsi |
+|---|---|---|
+| **[CodeForge](https://github.com/NanoMindExplorer/codeforge)** | `Go` · Bubble Tea | Terminal AI coding companion — TUI multi-provider, sistem subagent |
+| **[Tunnel Terminal](https://github.com/NanoMindExplorer/tunnel-terminal)** | `Kotlin` · `C++` | Terminal Android AI-native — PTY, SSH, AI agent, dukungan MCP |
+| **[GameMapperMind](https://github.com/NanoMindExplorer/GameMapperMind)** | `TypeScript` | Gamepad → touchscreen bridge via Shizuku, overlay, anti-ban, macro (Xbox/Switch/PS) |
+| **[nanomind](https://github.com/NanoMindExplorer/nanomind)** | `HTML/JS` | Personal site & article hub, sinkron otomatis dari Medium & X Articles |
+| **[music-mix-playlist-downloader](https://github.com/NanoMindExplorer/music-mix-playlist-downloader)** | `Python` | CLI unduh YouTube Mix/Playlist/Spotify/SoundCloud → audio kualitas tinggi + lirik & cover art |
+
+> Plus beberapa tools privat yang lagi jalan: **NAO** (Chrome extension analitik & optimasi akun X), **x-skill-packages** (paket skill konten X), dan **NanomindOS** (TUI toolkit crypto berbasis Node.js).
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NanoMindExplorer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="Trophies" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoMindExplorer&repo=codeforge&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoMindExplorer&repo=tunnel-terminal&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000" height="165"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoMindExplorer&repo=GameMapperMind&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000" height="165"/>
+
 </div>
 
 ---
 
+## 🪙 crypto & web3 sidequest
+
+```bash
+nano@matepad:~$ cat interests/crypto.txt
+> Airdrop hunting & testnet participation -- EVM + Solana
+> Riset & bangun tooling internal: bot TUI, plugin engine, DEX helper
+> Aktif di kampanye Axis Robotics (Kaito Studio) -- konten bilingual ID/EN
+```
+
+## ✍️ content & community
+
+Aktif bikin konten Indonesia di X — analisis crypto/airdrop, thread *build-in-public* seputar development, dan komentar media/tech. Pernah co-host X Spaces bareng komunitas **Cenblu**.
+
+<p align="center">
+<a href="https://x.com/Deadmouse_jpeg"><img src="https://img.shields.io/badge/Follow-%40Deadmouse__jpeg-FFB000?style=for-the-badge&logo=x&logoColor=0D0D0D" /></a>
+</p>
+
+---
+
+## 📈 github analytics
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=NanoMindExplorer&show_icons=true&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000&count_private=true&rank_icon=github" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=NanoMindExplorer&theme=gruvbox&background=0D0D0D&hide_border=false&border=FFB000" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanoMindExplorer&layout=compact&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000&langs_count=8" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NanoMindExplorer&bg_color=0D0D0D&color=FFB000&line=FFB000&point=FFF3D6&area=true&area_color=FFB000&hide_border=true" width="49%"/>
+
+</div>
+
+---
+
+## 🐍 contribution snake
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
+
+<p align="center"><sub>Digenerate otomatis tiap 12 jam lewat GitHub Actions. Palet snake-nya sudah disesuaikan ke amber di <code>.github/workflows/snake.yml</code> — tinggal replace file lama, animasinya update sendiri setelah workflow jalan.</sub></p>
+
+---
+
+## 🏆 trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NanoMindExplorer&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB000,50:663D00,100:0D0D0D&height=120&section=footer" width="100%"/>
+
+<sub>⚡ built &amp; audited from a tablet — patched with <code>git apply</code>, not a mouse</sub>
+
 </div>
