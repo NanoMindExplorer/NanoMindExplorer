@@ -156,7 +156,7 @@ nano@matepad:~$ cat interests/crypto.txt
 <img src="https://streak-stats.demolab.com/?user=NanoMindExplorer&theme=gruvbox&background=0D0D0D&hide_border=false&border=FFB000" width="49%"/>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NanoMindExplorer&layout=compact&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000&langs_count=8" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NanoMindExplorer&bg_color=0D0D0D&color=FFB000&line=FFB000&point=FFF3D6&area=true&area_color=FFB000&hide_border=true" width="49%"/>
+<img src="https://readme-activity-graph.vercel.app/graph?username=NanoMindExplorer&bg_color=0D0D0D&color=FFB000&line=FFB000&point=FFF3D6&area=true&area_color=FFB000&hide_border=true" width="49%"/>
 
 </div>
 
@@ -179,7 +179,7 @@ nano@matepad:~$ cat interests/crypto.txt
 ## 🏆 trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NanoMindExplorer&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
+<img src="https://github-profile-trophy-one.vercel.app/?username=NanoMindExplorer&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
 </div>
 
 ---
