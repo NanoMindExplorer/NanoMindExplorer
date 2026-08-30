@@ -54,14 +54,14 @@ crypto airdrop hunting • EVM & Solana testnets • X algorithm mechanics
 <tr>
 <td valign="top" width="62%">
 
-> *"Ngoding dari tablet, mikir kayak arsitek sistem."*
+> _"Ngoding dari tablet, mikir kayak arsitek sistem."_
 
-Independent Android developer & content creator berbasis Indonesia. Hampir semua development dikerjakan lewat **Termux** di **Huawei MatePad** (HarmonyOS 4.x, AOSP-compatible), pakai **proot Ubuntu 24.04** sebagai daily driver, dan kode di-*ship* lewat workflow `git apply` patch — tanpa desktop, tanpa IDE berat.
+Independent Android developer & content creator berbasis Indonesia. Hampir semua development dikerjakan lewat **Termux** di **Huawei MatePad** (HarmonyOS 4.x, AOSP-compatible), pakai **proot Ubuntu 24.04** sebagai daily driver, dan kode di-_ship_ lewat workflow `git apply` patch — tanpa desktop, tanpa IDE berat.
 
 - 🔭 **Sedang dibangun:** CodeForge, Tunnel Terminal, GameMapperMind — semuanya lahir & diaudit langsung dari terminal mobile
 - 🧭 **Cara kerja:** sesi development kompleks dimulai dengan dokumen kontrak kerja (seri AEC) buat ngatur AI sebelum mulai ngoding — disiplin dulu, baru jalan
 - 🪙 **Side quest:** airdrop hunting & testnet farming di ekosistem EVM dan Solana
-- ✍️ **Selain ngoding:** aktif bikin konten Indonesia di X — analisis crypto/airdrop, thread *build-in-public*, dan komentar media/tech
+- ✍️ **Selain ngoding:** aktif bikin konten Indonesia di X — analisis crypto/airdrop, thread _build-in-public_, dan komentar media/tech
 
 </td>
 <td valign="top" width="38%" align="center">
@@ -110,13 +110,13 @@ Nggak ada desktop, nggak ada IDE berat — build, audit, dan patch semuanya jala
 
 ## 📦 featured projects
 
-| Project | Stack | Deskripsi |
-|---|---|---|
-| **[CodeForge](https://github.com/NanoMindExplorer/codeforge)** | `Go` · Bubble Tea | Terminal AI coding companion — TUI multi-provider, sistem subagent |
-| **[Tunnel Terminal](https://github.com/NanoMindExplorer/tunnel-terminal)** | `Kotlin` · `C++` | Terminal Android AI-native — PTY, SSH, AI agent, dukungan MCP |
-| **[GameMapperMind](https://github.com/NanoMindExplorer/GameMapperMind)** | `TypeScript` | Gamepad → touchscreen bridge via Shizuku, overlay, anti-ban, macro (Xbox/Switch/PS) |
-| **[nanomind](https://github.com/NanoMindExplorer/nanomind)** | `HTML/JS` | Personal site & article hub, sinkron otomatis dari Medium & X Articles |
-| **[music-mix-playlist-downloader](https://github.com/NanoMindExplorer/music-mix-playlist-downloader)** | `Python` | CLI unduh YouTube Mix/Playlist/Spotify/SoundCloud → audio kualitas tinggi + lirik & cover art |
+| Project                                                                                                | Stack             | Deskripsi                                                                                     |
+| ------------------------------------------------------------------------------------------------------ | ----------------- | --------------------------------------------------------------------------------------------- |
+| **[CodeForge](https://github.com/NanoMindExplorer/codeforge)**                                         | `Go` · Bubble Tea | Terminal AI coding companion — TUI multi-provider, sistem subagent                            |
+| **[Tunnel Terminal](https://github.com/NanoMindExplorer/tunnel-terminal)**                             | `Kotlin` · `C++`  | Terminal Android AI-native — PTY, SSH, AI agent, dukungan MCP                                 |
+| **[GameMapperMind](https://github.com/NanoMindExplorer/GameMapperMind)**                               | `TypeScript`      | Gamepad → touchscreen bridge via Shizuku, overlay, anti-ban, macro (Xbox/Switch/PS)           |
+| **[nanomind](https://github.com/NanoMindExplorer/nanomind)**                                           | `HTML/JS`         | Personal site & article hub, sinkron otomatis dari Medium & X Articles                        |
+| **[music-mix-playlist-downloader](https://github.com/NanoMindExplorer/music-mix-playlist-downloader)** | `Python`          | CLI unduh YouTube Mix/Playlist/Spotify/SoundCloud → audio kualitas tinggi + lirik & cover art |
 
 > Plus beberapa tools privat yang lagi jalan: **NAO** (Chrome extension analitik & optimasi akun X), **x-skill-packages** (paket skill konten X), dan **NanomindOS** (TUI toolkit crypto berbasis Node.js).
 
@@ -142,7 +142,7 @@ nano@matepad:~$ cat interests/crypto.txt
 
 ## ✍️ content & community
 
-Aktif bikin konten Indonesia di X — analisis crypto/airdrop, thread *build-in-public* seputar development, dan komentar media/tech. Pernah co-host X Spaces bareng komunitas **Cenblu**.
+Aktif bikin konten Indonesia di X — analisis crypto/airdrop, thread _build-in-public_ seputar development, dan komentar media/tech. Pernah co-host X Spaces bareng komunitas **Cenblu**.
 
 <p align="center">
 <a href="https://x.com/Deadmouse_jpeg"><img src="https://img.shields.io/badge/Follow-%40Deadmouse__jpeg-FFB000?style=for-the-badge&logo=x&logoColor=0D0D0D" /></a>
