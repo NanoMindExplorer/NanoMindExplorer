@@ -7,7 +7,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/NanoMindExplorer?style=for-the-badge&logo=github&color=FFB000&logoColor=0D0D0D&labelColor=0D0D0D)
 
 <a href="https://github.com/NanoMindExplorer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFB000&center=true&vCenter=true&width=800&lines=Independent+Android+Developer;Termux+%2B+proot+Ubuntu+24.04;Ship+code+via+git+apply+patches;Crypto+Airdrop+%26+Testnet+Hunter+29;Vibin on X and Discord" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFB000&center=true&vCenter=true&width=800&lines=Independent+Android+Developer;Termux+%2B+proot+Ubuntu+24.04;Ship+code+via+git+apply+patches;Crypto+Airdrop+%26+Testnet+Hunter+%28EVM+%2B+Solana%29;Vibin+on+X+and+Discord" alt="Typing SVG" />
 </a>
 
 <p>
@@ -60,7 +60,7 @@ Independent Android developer & content creator berbasis Indonesia. Hampir semua
 
 - 🔭 **Sedang dibangun:** CodeForge, Tunnel Terminal, GameMapperMind
 - 🪙 **Side quest:** airdrop hunting & testnet
-- ✍️ **Selain ngoding:** aktif vibin di X dan Discord 
+- ✍️ **Selain ngoding:** aktif vibin di X dan Discord
 
 </td>
 <td valign="top" width="38%" align="center">
@@ -140,7 +140,7 @@ nano@matepad:~$ cat interests/crypto.txt
 
 ## ✍️ content & community
 
-https://x.com/Deadmouse_jpeg/articles
+[📝 Baca artikel panjang saya di X Articles](https://x.com/Deadmouse_jpeg/articles)
 
 <p align="center">
 <a href="https://x.com/Deadmouse_jpeg"><img src="https://img.shields.io/badge/Follow-%40Deadmouse__jpeg-FFB000?style=for-the-badge&logo=x&logoColor=0D0D0D" /></a>
