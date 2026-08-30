@@ -168,9 +168,9 @@ Aktif bikin konten Indonesia di X — analisis crypto/airdrop, thread _build-in-
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg?v=2">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg?v=2">
 </picture>
 </p>
 
