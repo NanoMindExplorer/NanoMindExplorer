@@ -7,7 +7,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/NanoMindExplorer?style=for-the-badge&logo=github&color=FFB000&logoColor=0D0D0D&labelColor=0D0D0D)
 
 <a href="https://github.com/NanoMindExplorer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFB000&center=true&vCenter=true&width=800&lines=Independent+Android+Developer;Termux+%2B+proot+Ubuntu+24.04;Ship+code+via+git+apply+patches;Crypto+Airdrop+%26+Testnet+Hunter+%28EVM+%2B+Solana%29;Vibin+on+X+and+Discord" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFB000&center=true&vCenter=true&width=800&lines=Independent+Android+Developer;Termux+%2B+proot+Ubuntu+24.04;Ship+code+via+git+apply+patches;Crypto+Airdrop+%26+Testnet+Hunter;Vibin+on+X+and+Discord" alt="Typing SVG" />
 </a>
 
 <p>
@@ -165,11 +165,7 @@ nano@matepad:~$ cat interests/crypto.txt
 ## 🐍 contribution snake
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg?v=2">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg?v=2">
-</picture>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg?v=3">
 </p>
 
 <p align="center"><sub>Digenerate otomatis tiap 12 jam lewat GitHub Actions. Palet snake-nya sudah disesuaikan ke amber di <code>.github/workflows/snake.yml</code> — tinggal replace file lama, animasinya update sendiri setelah workflow jalan.</sub></p>
