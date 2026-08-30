@@ -121,10 +121,10 @@ Nggak ada desktop, nggak ada IDE berat — build, audit, dan patch semuanya jala
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoMindExplorer&repo=codeforge&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoMindExplorer&repo=tunnel-terminal&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NanoMindExplorer&repo=codeforge&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NanoMindExplorer&repo=tunnel-terminal&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000" height="165"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoMindExplorer&repo=GameMapperMind&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NanoMindExplorer&repo=GameMapperMind&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000" height="165"/>
 
 </div>
 
@@ -152,10 +152,10 @@ nano@matepad:~$ cat interests/crypto.txt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NanoMindExplorer&show_icons=true&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000&count_private=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NanoMindExplorer&show_icons=true&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000&count_private=true&rank_icon=github" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=NanoMindExplorer&theme=gruvbox&background=0D0D0D&hide_border=false&border=FFB000" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanoMindExplorer&layout=compact&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NanoMindExplorer&layout=compact&theme=gruvbox&bg_color=0D0D0D&hide_border=false&border_color=FFB000&langs_count=8" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NanoMindExplorer&bg_color=0D0D0D&color=FFB000&line=FFB000&point=FFF3D6&area=true&area_color=FFB000&hide_border=true" width="49%"/>
 
 </div>
