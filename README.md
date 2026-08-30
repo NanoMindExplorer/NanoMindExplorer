@@ -7,7 +7,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/NanoMindExplorer?style=for-the-badge&logo=github&color=FFB000&logoColor=0D0D0D&labelColor=0D0D0D)
 
 <a href="https://github.com/NanoMindExplorer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFB000&center=true&vCenter=true&width=800&lines=Independent+Android+Developer;Termux+%2B+proot+Ubuntu+24.04;Ship+code+via+git+apply+patches;Crypto+Airdrop+%26+Testnet+Hunter+%28EVM+%2B+Solana%29;Nulis+analisis+crypto+%26+tech+di+X" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFB000&center=true&vCenter=true&width=800&lines=Independent+Android+Developer;Termux+%2B+proot+Ubuntu+24.04;Ship+code+via+git+apply+patches;Crypto+Airdrop+%26+Testnet+Hunter+29;Vibin on X and Discord" alt="Typing SVG" />
 </a>
 
 <p>
@@ -26,7 +26,7 @@
 
 ```bash
 nano@matepad:~$ whoami
-NanoMindExplorer — Independent Android Developer & Content Creator (Indonesia 🇮🇩)
+NanoMindExplorer — Tukang Ngoprek Yang Selalu penasaran
 
 nano@matepad:~$ neofetch --minimal
 -----------------------------------------------------
@@ -43,7 +43,7 @@ nano@matepad:~$ cat currently_building.txt
 [PY]  mmpd                - YouTube/Spotify/SoundCloud -> audio CLI
 
 nano@matepad:~$ echo $SIDEQUEST
-crypto airdrop hunting • EVM & Solana testnets • X algorithm mechanics
+crypto airdrop hunting • X algorithm mechanics
 ```
 
 ---
@@ -58,10 +58,9 @@ crypto airdrop hunting • EVM & Solana testnets • X algorithm mechanics
 
 Independent Android developer & content creator berbasis Indonesia. Hampir semua development dikerjakan lewat **Termux** di **Huawei MatePad** (HarmonyOS 4.x, AOSP-compatible), pakai **proot Ubuntu 24.04** sebagai daily driver, dan kode di-_ship_ lewat workflow `git apply` patch — tanpa desktop, tanpa IDE berat.
 
-- 🔭 **Sedang dibangun:** CodeForge, Tunnel Terminal, GameMapperMind — semuanya lahir & diaudit langsung dari terminal mobile
-- 🧭 **Cara kerja:** sesi development kompleks dimulai dengan dokumen kontrak kerja (seri AEC) buat ngatur AI sebelum mulai ngoding — disiplin dulu, baru jalan
-- 🪙 **Side quest:** airdrop hunting & testnet farming di ekosistem EVM dan Solana
-- ✍️ **Selain ngoding:** aktif bikin konten Indonesia di X — analisis crypto/airdrop, thread _build-in-public_, dan komentar media/tech
+- 🔭 **Sedang dibangun:** CodeForge, Tunnel Terminal, GameMapperMind
+- 🪙 **Side quest:** airdrop hunting & testnet
+- ✍️ **Selain ngoding:** aktif vibin di X dan Discord 
 
 </td>
 <td valign="top" width="38%" align="center">
@@ -135,14 +134,13 @@ Nggak ada desktop, nggak ada IDE berat — build, audit, dan patch semuanya jala
 
 ```bash
 nano@matepad:~$ cat interests/crypto.txt
-> Airdrop hunting & testnet participation -- EVM + Solana
-> Riset & bangun tooling internal: bot TUI, plugin engine, DEX helper
-> Aktif di kampanye Axis Robotics (Kaito Studio) -- konten bilingual ID/EN
+> Airdrop hunting & testnet participation
+> Riset & bangun tooling internal
 ```
 
 ## ✍️ content & community
 
-Aktif bikin konten Indonesia di X — analisis crypto/airdrop, thread _build-in-public_ seputar development, dan komentar media/tech. Pernah co-host X Spaces bareng komunitas **Cenblu**.
+https://x.com/Deadmouse_jpeg/articles
 
 <p align="center">
 <a href="https://x.com/Deadmouse_jpeg"><img src="https://img.shields.io/badge/Follow-%40Deadmouse__jpeg-FFB000?style=for-the-badge&logo=x&logoColor=0D0D0D" /></a>
