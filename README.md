@@ -168,8 +168,6 @@ nano@matepad:~$ cat interests/crypto.txt
   <img alt="snake animation" src="https://raw.githubusercontent.com/NanoMindExplorer/NanoMindExplorer/output/github-contribution-grid-snake.svg?v=3">
 </p>
 
-<p align="center"><sub>Digenerate otomatis tiap 12 jam lewat GitHub Actions. Palet snake-nya sudah disesuaikan ke amber di <code>.github/workflows/snake.yml</code> — tinggal replace file lama, animasinya update sendiri setelah workflow jalan.</sub></p>
-
 ---
 
 ## 🏆 trophies
