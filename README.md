@@ -117,7 +117,7 @@ Nggak ada desktop, nggak ada IDE berat — build, audit, dan patch semuanya jala
 | **[nanomind](https://github.com/NanoMindExplorer/nanomind)**                                           | `HTML/JS`         | Personal site & article hub, sinkron otomatis dari Medium & X Articles                        |
 | **[music-mix-playlist-downloader](https://github.com/NanoMindExplorer/music-mix-playlist-downloader)** | `Python`          | CLI unduh YouTube Mix/Playlist/Spotify/SoundCloud → audio kualitas tinggi + lirik & cover art |
 
-> Plus beberapa tools privat yang lagi jalan: **NAO** (Chrome extension analitik & optimasi akun X), **x-skill-packages** (paket skill konten X), dan **NanomindOS** (TUI toolkit crypto berbasis Node.js).
+> Plus beberapa tools privat yang lagi jalan: **NAO** (Chrome extension analitik & optimasi akun X), **x-skill-packages** (paket skill konten X), dan **NanomindOS** .
 
 <div align="center">
 
